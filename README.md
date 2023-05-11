@@ -24,8 +24,9 @@ It helps developers in faster coding, in-turn reduces development cost.
 
 Screenshots
 
-![Screenshot (25)](https://github.com/Rajneeshgangwar/Login2Xplore/assets/71362775/c953eae3-ce5a-4ba9-b455-eea0a507249c)
-![Screenshot (26)](https://github.com/Rajneeshgangwar/Login2Xplore/assets/71362775/b0937e2d-21b2-4ce5-9865-6d89a432db7f)
+![Screenshot (27)](https://github.com/Rajneeshgangwar/Login2Xplore/assets/71362775/943712a4-ed06-480b-8347-fbb094b0e93e)
+![Screenshot (28)](https://github.com/Rajneeshgangwar/Login2Xplore/assets/71362775/a39d77a9-8ca7-4fd6-a030-424c5080c934)
+
 
 
 
